@@ -43,7 +43,7 @@ main{
 
 .mensaje {
     height: 530px;
-    background: url("/imagen/Muñeco.png") center/contain no-repeat white;
+    background: url("/imagen/muneco.png") center/contain no-repeat white;
     border: none;
     border-radius: 24px;
     color: #0a3871;
