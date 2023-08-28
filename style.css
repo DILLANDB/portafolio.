@@ -43,7 +43,7 @@ main{
 
 .mensaje {
     height: 530px;
-    background: url("../imagen/dibujo.png") center/contain no-repeat white;
+    background: url("imagen/dibujo.png") center/contain no-repeat white;
     border: none;
     border-radius: 24px;
     color: #0a3871;
