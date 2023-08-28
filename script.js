@@ -50,7 +50,6 @@ function copiTexto() {
   textoCopi = mensaje.value;
   navigator.clipboard.writeText(textoCopi);
   mensaje.value = "";
-  mensaje.style.backgroundImage = "url(/imagen/Muñeco.png)";
-
+  mensaje.style.backgroundImage = "url(/imagen/dibujo.png)";
 }
 
