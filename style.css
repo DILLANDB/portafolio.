@@ -10,11 +10,6 @@ body {
 }
 
 
-/* Estilos del encabezado */
-header {
-    /* Agrega estilos según sea necesario */
-}
-
 /* Estilos del logo */
 .logo{
     padding-top: 10px;
@@ -191,7 +186,7 @@ main{
     } 
     .mensaje{
         width: 75%;
-        height: 15px;
+        height: 80px;
         margin-left: 6%;
     }
     .btn-encriptar,.btn-desencriptar{
